@@ -1,5 +1,3 @@
-# Young-Innovation-Backend-Challenge
-
 # README #
 
 This is the YoungInnovations Internship Challenge solution of Backend Programming Petroleum Report
